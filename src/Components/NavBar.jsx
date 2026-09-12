@@ -113,15 +113,15 @@ const cartCount = cart.reduce(
           {/* PROFILE */}
           <button
             className="
-              hidden sm:flex
-              items-center gap-2
-              pl-2
-              pr-3
-              h-11
-              rounded-xl
-              hover:bg-zinc-100
-              transition
-            "
+  flex
+  items-center gap-2
+  pl-2
+  pr-3
+  h-11
+  rounded-xl
+  hover:bg-zinc-100
+  transition
+"
           >
             <div
               className="
